@@ -1,0 +1,72 @@
+body {background-color:rgb(85, 4, 4);
+     font-family: Arial, sans-serif;}
+
+h1 {
+color:white;
+font-size: 30px;
+text-align: center;
+text-decoration: underline;
+}
+
+h2 {color:pink;
+    font-size:25px ;}
+
+h3 {color: pink;
+font-size: 25px;}
+
+h4{color: pink;
+font-size: 25px;}
+
+h5{color: pink;
+font-size: 25px;}
+
+p {color:rgb(216, 206, 206);
+  font-size: 20px;}
+
+a {color:pink;}
+
+.important {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.presentation-flex {
+   
+    color: white;
+    border: 2px solid white ;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    display: flex;
+    gap: 30px;
+align-items: center;
+
+    h2{text-decoration: underline;}
+    
+}
+
+.photo-presentation{
+    width: 800px;
+    max-width: 100%;
+    border-radius: 12px;
+}
+
+
+
+nav {
+color: pink;
+padding: 20px;
+text-align: center;
+margin-bottom: 30px;
+}
+ 
+
+
+
+
+
+
+
+
+
+
